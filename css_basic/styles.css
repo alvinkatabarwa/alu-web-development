@@ -13,7 +13,7 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
-    background-color: bisque;
+    background-color: rgb(132, 84, 26);
     font-style: italic;
     
   }
